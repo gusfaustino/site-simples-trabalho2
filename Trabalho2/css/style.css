@@ -1,0 +1,76 @@
+header{
+    text-align: center;
+    background-color: black;
+}
+
+body{
+    background-color: black;
+}
+.container {
+    display: flex; 
+        align-items: center;
+        background-color: yellow;
+        margin-right: 20px; 
+        border-radius: 10px;
+    }
+
+    .container img {
+        align-items: left;
+        width: 300px;
+        height: auto; 
+        margin-right: 20px; 
+        border-radius: 10px; 
+    }
+ 
+    .container p {
+        max-width: 500px; 
+        text-align: center; 
+        color: black;
+        margin-right: 20px; 
+        border-radius: 10px;    
+
+    }
+.auge{
+    display: flex; 
+        align-items: center;
+        background-color: yellow;
+        margin-right: 20px; 
+        border-radius: 10px;
+    }
+    
+    .auge img{
+        float: right;
+        width: 600px;
+        height: auto; 
+        margin-right: 20px; 
+        border-radius: 10px;
+    }
+    .auge p {
+        max-width: 500px; 
+        text-align: center; 
+        padding: 5px;
+        color: black;
+        margin-right: 20px; 
+        border-radius: 10px;
+    }
+    .final{ 
+            background-color: yellow;
+            margin-right: 20px; 
+            border-radius: 10px;
+        }
+        
+        .final img{
+            float: center;
+            width: 600px;
+            height: auto; 
+            margin-right: 20px; 
+            border-radius: 10px;
+        }
+        .final p {
+            max-width: 500px; 
+            text-align: right; 
+            padding: 8px;
+            color: black;
+            margin-right: 500px; 
+            border-radius: 10px;
+        }
